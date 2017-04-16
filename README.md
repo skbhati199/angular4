@@ -28,11 +28,11 @@ Before running the tests make sure you are serving the app via `ng serve`.
 To get more help on the Angular CLI use `ng help` 
 
 
-##Donate Me
+## Donate Me
 
 Hello Friend, I want to sharing my knowledge. Please donate me some some $5 - $100 
 
-##Thank you so much....
+### Thank you so much....
 
 ![Screenshot](https://raw.githubusercontent.com/skbhati199/angular4-Quick-Start/master/donateme.png)
 
