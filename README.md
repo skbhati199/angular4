@@ -1,5 +1,4 @@
-# angular4-Quick-Start
-Angular 4 Quick Started
+# angular4 Ngx Chart
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server
@@ -27,10 +26,24 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 To get more help on the Angular CLI use `ng help` 
 
+# Ngx-Chart
+
+Vertical Chart
+
+Pie Chart
+
+![Screenshot](https://raw.githubusercontent.com/skbhati199/angular4/master/demo.JPG)
+
+Advanced Pie Chart
+
+Grid Pie Chart
+
+![Screenshot](https://raw.githubusercontent.com/skbhati199/angular4/master/gridwithadvanced.JPG)
+
 
 ## Donate Me
 
-Hello Friend, I want to sharing my knowledge. Please donate me some money $5 - $100 
+Hello Friend, I want to sharing my knowledge. Please donate me some money 100 - 5000 
 
 
 ![Screenshot](https://raw.githubusercontent.com/skbhati199/angular4-Quick-Start/master/donateme.png)
