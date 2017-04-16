@@ -10,13 +10,15 @@ import { AppComponent } from './app.component';
 import { MoviesListComponent } from './components/movies-list/movies-list.component';
 import { CharacterListComponent } from './components/character-list/character-list.component';
 import { VerticalBarChartComponent } from './ngx.charts/vertical-bar-chart/vertical-bar-chart.component';
+import { PieChartComponent } from './ngx.charts/pie-chart/pie-chart.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MoviesListComponent,
     CharacterListComponent,
-    VerticalBarChartComponent
+    VerticalBarChartComponent,
+    PieChartComponent
   ],
   imports: [
     BrowserModule,
@@ -34,6 +36,10 @@ import { VerticalBarChartComponent } from './ngx.charts/vertical-bar-chart/verti
     {
       path:"vertical-bar",
       component:VerticalBarChartComponent
+    },
+    {
+      path:'pie-chart',
+      component:PieChartComponent
     }
   ]),
   BrowserModule, BrowserAnimationsModule, NgxChartsModule

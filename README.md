@@ -27,3 +27,11 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 To get more help on the Angular CLI use `ng help` 
 
+# Ngx-Chart
+
+Vertical Chart
+
+Pie Chart
+
+![Screenshot](http://i.imgur.com/ebuHuem.png)
+
