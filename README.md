@@ -35,3 +35,6 @@ Pie Chart
 
 ![Screenshot](https://raw.githubusercontent.com/skbhati199/angular4/master/demo.JPG)
 
+
+
+![Screenshot](https://raw.githubusercontent.com/skbhati199/angular4/master/gridwithadvanced.JPG)
