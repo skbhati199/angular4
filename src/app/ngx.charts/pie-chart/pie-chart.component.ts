@@ -17,7 +17,7 @@ export class PieChartComponent implements OnInit {
   single: any[];
   multi: any[];
 
-  view: any[] = [500, 200];
+  view: any[] = [700, 200];
 
   // options
   showLegend = true;

@@ -1,3 +1,5 @@
+ <div>
+ <h1>Pie Chart</h1>
  <ngx-charts-pie-chart
       [view]="view"
       [scheme]="colorScheme"
@@ -9,3 +11,27 @@
       [gradient]="gradient"
       (select)="onSelect($event)">
     </ngx-charts-pie-chart>
+ </div>
+
+ <div>
+    <h1>Pie advanced Chart</h1>
+     <ngx-charts-advanced-pie-chart
+      [view]="view"
+      [scheme]="colorScheme"
+      [results]="single"
+      [gradient]="gradient"
+      (select)="onSelect($event)">
+    </ngx-charts-advanced-pie-chart>
+ </div>
+
+ <div>
+
+    <h1>Pie Grid Chart</h1>
+
+     <ngx-charts-pie-grid
+      [view]="view"
+      [scheme]="colorScheme"
+      [results]="single"
+      (select)="onSelect($event)">
+    </ngx-charts-pie-grid>
+ </div>
