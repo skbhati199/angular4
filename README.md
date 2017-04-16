@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# YoutubeTutorials
-
+# angular4-Quick-Start
+Angular 4 Quick Started
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server
@@ -26,8 +25,4 @@ Before running the tests make sure you are serving the app via `ng serve`.
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
-# angular4
-Angular Quick Started angular 4 application 
->>>>>>> 1e184e4ce50f07859708e9a935fbb5e33172c2d3
+To get more help on the Angular CLI use `ng help` 

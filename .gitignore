@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
@@ -42,6 +43,8 @@ testem.log
 .DS_Store
 Thumbs.db
 =======
+=======
+>>>>>>> ac91193eca3053798b0e20a473565382ac72efad
 # Logs
 logs
 *.log
@@ -79,4 +82,7 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+<<<<<<< HEAD
 >>>>>>> 1e184e4ce50f07859708e9a935fbb5e33172c2d3
+=======
+>>>>>>> ac91193eca3053798b0e20a473565382ac72efad
