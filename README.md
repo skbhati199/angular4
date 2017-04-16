@@ -33,5 +33,5 @@ Vertical Chart
 
 Pie Chart
 
-![Screenshot](http://i.imgur.com/ebuHuem.png)
+![Screenshot](https://raw.githubusercontent.com/skbhati199/angular4/master/demo.JPG)
 
