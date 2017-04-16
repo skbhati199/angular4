@@ -30,9 +30,9 @@ To get more help on the Angular CLI use `ng help`
 
 ## Donate Me
 
-Hello Friend, I want to sharing my knowledge. Please donate me some some $5 - $100 
+Hello Friend, I want to sharing my knowledge. Please donate me some money $5 - $100 
 
-### Thank you so much....
 
 ![Screenshot](https://raw.githubusercontent.com/skbhati199/angular4-Quick-Start/master/donateme.png)
 
+### Thank you so much....
