@@ -29,12 +29,25 @@ To get more help on the Angular CLI use `ng help`
 
 # Ngx-Chart
 
-Vertical Chart
+## Vertical Chart
 
-Pie Chart
+## Pie Chart
 
 ![Screenshot](https://raw.githubusercontent.com/skbhati199/angular4/master/demo.JPG)
 
+## Advanced Pie Chart 
 
+## Grid Pie Chart
 
 ![Screenshot](https://raw.githubusercontent.com/skbhati199/angular4/master/gridwithadvanced.JPG)
+
+
+
+## Donate Me
+
+Hello Friend, I want to sharing my knowledge. Please donate me some money 100 - 1000 
+
+
+![Screenshot](https://raw.githubusercontent.com/skbhati199/angular4-Quick-Start/master/donateme.png)
+
+### Thank you so much....
