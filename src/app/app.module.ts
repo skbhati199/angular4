@@ -9,12 +9,14 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { AppComponent } from './app.component';
 import { MoviesListComponent } from './components/movies-list/movies-list.component';
 import { CharacterListComponent } from './components/character-list/character-list.component';
+import { VerticalBarChartComponent } from './ngx.charts/vertical-bar-chart/vertical-bar-chart.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     MoviesListComponent,
-    CharacterListComponent
+    CharacterListComponent,
+    VerticalBarChartComponent
   ],
   imports: [
     BrowserModule,
@@ -28,6 +30,10 @@ import { CharacterListComponent } from './components/character-list/character-li
     {
       path:'character-list',
       component:CharacterListComponent
+    },
+    {
+      path:"vertical-bar",
+      component:VerticalBarChartComponent
     }
   ]),
   BrowserModule, BrowserAnimationsModule, NgxChartsModule
