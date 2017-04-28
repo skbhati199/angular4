@@ -45,6 +45,8 @@ To get more help on the Angular CLI use `ng help`
 
 ## Donate Me
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JB96ZRD33B5CS)
+
 Hello Friend, I want to sharing my knowledge. Please donate me some money 100 - 1000 
 
 
